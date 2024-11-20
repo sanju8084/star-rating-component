@@ -1,4 +1,4 @@
-
+**sample-project**
 ### **Star Rating Component**
 A reusable and customizable Star Rating Component built with React.
 
