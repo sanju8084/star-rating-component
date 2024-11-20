@@ -1,12 +1,22 @@
+body{
+  background-repeat: none;
+background: linear-gradient(to right,rgb(224, 179, 16),rgb(220, 194, 142));  
+}
+
 h1{
   font-size: 40px;
   margin-top: 50px;
  text-align: center;
 }
 .container{
+ position: relative;
+  left: 40%;
+  width: 300px;
+  height: 200px;
   display: flex;
-  justify-content: center;
-}
+    background-color: rgba(17, 16, 16, 0.898);
+border-radius: 10px;
+justify-content: center;}
 button{
   font-size: 50px;
   border: none;
