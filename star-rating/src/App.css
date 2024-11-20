@@ -1,0 +1,22 @@
+h1{
+  font-size: 40px;
+  margin-top: 50px;
+ text-align: center;
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
+button{
+  font-size: 50px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  
+}
+.on{
+  color: rgb(242, 206, 46);
+}
+.off{
+  color: gray;
+}
